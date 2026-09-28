@@ -11,7 +11,7 @@
 
 ### 🚀 What I'm building
 
-I build production LLM systems (RAG, agents, text-to-SQL) on top of enterprise data platforms, with security and governance built in. Currently deep in ML foundations, transformers, and LLM app engineering: **[AI Engineering Journey](https://github.com/yuvraj279/AI_Engineering_Journey)**.
+I build production LLM systems (RAG, agents, text-to-SQL) on top of enterprise data platforms, with security and governance built in.
 
 ### 💼 Background
 
