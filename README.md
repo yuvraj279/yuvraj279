@@ -11,7 +11,7 @@
 
 ### 🚀 What I'm building
 
-I build production LLM systems (RAG, agents, text-to-SQL) on top of enterprise data platforms, with security and governance built in. Currently deep in ML foundations, transformers, and LLM app engineering, tracked in public here: **[AI Engineering Journey](https://github.com/yuvraj279/AI_Engineering_Journey)**.
+I build production LLM systems (RAG, agents, text-to-SQL) on top of enterprise data platforms, with security and governance built in. Currently deep in ML foundations, transformers, and LLM app engineering: **[AI Engineering Journey](https://github.com/yuvraj279/AI_Engineering_Journey)**.
 
 ### 💼 Background
 
@@ -40,10 +40,10 @@ SQL/Snowflake, data pipelines, RLS & access control, backend system design, or R
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj279&show_icons=true&theme=radical&count_private=true" alt="yuvraj279's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj279&show_icons=true&theme=radical" alt="yuvraj279's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj279&theme=radical" alt="yuvraj279's streak stats" height="165"/>
 </p>
